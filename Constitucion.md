@@ -1,9 +1,9 @@
 ---
 title: CONSTITUCIÓN DE LA NACIÓN ARGENTINA
 author: |
-	| Sala de sesiones de la Convención Nacional,
-	| Ciudad de Santa Fe
-date: 12 DE SEPTIEMBRE DE 1866
+	| Sala de Sesiones de la Hon. Convención Nacional,
+	| Buenos Aires
+date: 15 DE MARZO DE 1898
 ---
 
 # PREAMBULO
@@ -94,7 +94,7 @@ date: 12 DE SEPTIEMBRE DE 1866
 
 #### Capítulo I: De la Cámara de Diputados
 
-**Artículo 37**.- La Cámara de Diputados se compondrá de representantes elegidos directamente por el pueblo de las provincias y de la Capital, que se consideran a este fin como distritos electorales de un solo Estado, y a simple pluralidad de sufragios en razón de uno por cada veinte mil habitantes, o de una fracción que no baje del número de diez mil.
+**Artículo 37**.- La Cámara de Diputados se compondrá de representantes elegidos directamente por el pueblo de las provincias y de la Capital, que se consideran a este fin como distritos electorales de un solo Estado y a simple pluralidad de sufragios. El número de representantes será de uno por cada treinta y tres mil habitantes o fracción que no baje de dieciséis mil quinientos. Después de la realización de cada censo, el Congreso fijará la representación con arreglo al mismo, pudiendo aumentar pero no disminuir la base expresada para cada diputado.
 
 **Artículo 38**.- Los diputados para la primera legislatura se nombrarán en la proporción siguiente: por la provincia de Buenos Aires doce (12); por la de Córdoba seis (6); por la de Catamarca tres (3); por la de Corrientes cuatro (4); por la de Entre Ríos dos (2); por la de Jujuy dos (2); por la de Mendoza tres (3); por la de La Rioja dos (2); por la de Salta tres (3); por la de Santiago cuatro (4); por la de San Juan dos (2), por la de Santa Fe dos, (2); por la de San Luis dos (2); y por la de Tucumán tres (3).
 
@@ -318,7 +318,7 @@ Se harán dos listas de todos los individuos electos para Presidente y otras dos
 
 #### Capítulo IV: De los Ministros del Poder Ejecutivo
 
-**Artículo 87**.- Cinco ministros secretarios, a saber: Del Interior, de Relaciones Exteriores, de Hacienda, de Justicia, Culto e Instrucción Pública, y de Guerra y Marina, tendrán a su cargo el despacho de los negocios de la Nación, y refrendarán y legalizarán los actos del Presidente por medio de su firma, sin cuyo requisito carecen de eficacia. Una ley deslindará los ramos del respectivo despacho de los ministros.
+**Artículo 87**.- Ocho ministros secretarios tendrán a su cargo el despacho de los negocios de la Nación y refrendarán y legalizarán los actos del Presidente por medio de su firma, sin cuyo requisito carecen de eficacia. Una ley especial deslindará los ramos del respectivo despacho de los ministros.
 
 **Artículo 88**.- Cada ministro es responsable de los actos que legaliza; y solidariamente de los que acuerda con sus colegas.
 
