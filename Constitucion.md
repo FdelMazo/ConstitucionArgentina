@@ -1,9 +1,9 @@
 ---
 title: CONSTITUCIÓN DE LA NACIÓN ARGENTINA
 author: |
-	| Sala de sesiones de la Convención Nacional "ad hoc",
+	| Sala de sesiones de la Convención Nacional,
 	| Ciudad de Santa Fe
-date: 23 DE SEPTIEMBRE DE 1860
+date: 12 DE SEPTIEMBRE DE 1866
 ---
 
 # PREAMBULO
@@ -20,7 +20,7 @@ date: 23 DE SEPTIEMBRE DE 1860
 
 **Artículo 3**.- Las autoridades que ejercen el Gobierno federal residen en la Ciudad que se declare Capital de la República por una ley especial del Congreso, previa cesión hecha por una o más Legislaturas Provinciales del territorio que haya de federalizarse.
 
-**Artículo 4**.- El Gobierno federal provee a los gastos de la Nación con los fondos del Tesoro nacional, formado del producto de derechos de importación y exportación hasta 1866 con arreglo a lo estatuido en el inciso 1° del artículo 67; del de la venta o locación de tierras de propiedad nacional, de la renta de correos, de las demás contribuciones que equitativa y proporcionalmente a la población imponga el Congreso general, y de los empréstitos y operaciones de crédito que decrete el mismo Congreso para urgencia de la Nación, o para empresas de utilidad nacional.
+**Artículo 4**.- El Gobierno federal provee a los gastos de la Nación con los fondos del Tesoro nacional, formado del producto de derechos de importación y exportación; del de la venta o locación de tierras de propiedad nacional, de la renta de correos, de las demás contribuciones que equitativa y proporcionalmente a la población imponga el Congreso general, y de los empréstitos y operaciones de crédito que decrete el mismo Congreso para urgencia de la Nación, o para empresas de utilidad nacional.
 
 **Artículo 5**.- Cada provincia dictará para sí una Constitución bajo el sistema representativo republicano, de acuerdo con los principios, declaraciones y garantías de la Constitución Nacional; y que asegure su administración de justicia, su régimen municipal, y la educación primaria. Bajo de estas condiciones el Gobierno federal garante a cada provincia el goce y ejercicio de sus instituciones.
 
@@ -162,7 +162,7 @@ date: 23 DE SEPTIEMBRE DE 1860
 
 **Artículo 67**.- Corresponde al Congreso:
 
-1. Legislar sobre las aduanas exteriores, y establecer los derechos de importación, los cuales, así como las avaluaciones sobre que recaigan, serán uniformes en toda la Nación; bien entendido, que ésta, así como las demás contribuciones nacionales, podrán ser satisfechas en la moneda que fuese corriente en las Provincias respectivas, por su justo equivalente. Establecer igualmente los derechos de exportación hasta 1866, en cuya fecha cesarán como impuesto Nacional, no pudiendo serlo provincial;
+1. Legislar sobre las aduanas exteriores, y establecer los derechos de importación, los cuales, así como las avaluaciones sobre que recaigan, serán uniformes en toda la Nación; bien entendido, que ésta, así como las demás contribuciones nacionales, podrán ser satisfechas en la moneda que fuese corriente en las Provincias respectivas, por su justo equivalente. Establecer igualmente los derechos de exportación;
 
 2. Imponer contribuciones directas por tiempo determinado y proporcionalmente iguales en todo el territorio de la Nación, siempre que la defensa, seguridad común y bien general del Estado lo exijan;
 
