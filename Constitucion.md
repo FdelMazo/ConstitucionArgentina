@@ -1,9 +1,8 @@
 ---
 title: CONSTITUCIÓN DE LA NACIÓN ARGENTINA
 author: |
-	| Sala de Sesiones del Congreso General Constituyente,
-	| Ciudad de Santa Fe
-date: 24 DE OCTUBRE DE 1957
+	| Buenos Aires
+date: 24 DE AGOSTO DE 1972
 ---
 
 # PREAMBULO
@@ -110,21 +109,21 @@ El Estado otorgará los beneficios de la seguridad social, que tendrá carácter
 
 **Artículo 41**.- Por esta vez las legislaturas de las provincias reglarán los medios de hacer efectiva la elección directa de los diputados de la Nación: para lo sucesivo el Congreso expedirá una ley general.
 
-**Artículo 42**.- Los diputados durarán en su representación por cuatro años, y son reelegibles; pero la Sala se renovará por mitad cada bienio; a cuyo efecto los nombrados para la primera legislatura, luego que se reúnan, sortearán los que deban salir en el primer período.
+**Artículo 42**.- Los diputados duran en su representación cuatro años y son reelegibles indefinidamente. Se elegirán en la oportunidad prevista en el Artículo 81.
 
 **Artículo 43**.- En caso de vacante, el Gobierno de provincia, o de la Capital, hace proceder a la elección legal de un nuevo miembro.
 
 **Artículo 44**.- A la Cámara de Diputados corresponde exclusivamente la iniciativa de las leyes sobre contribuciones y reclutamiento de tropas.
 
-**Artículo 45**.- Sólo ella ejerce el derecho de acusar ante el Senado al Presidente, Vicepresidente, sus Ministros y a los miembros de la Corte Suprema y demás Tribunales inferiores de la Nación, en las causas de responsabilidad que se intenten contra ellos por el mal desempeño o por delito en el ejercicio de sus funciones, o por crímenes comunes; después de haber conocido de ellos y declarado haber lugar a la formación de causa por mayoría de dos terceras partes de sus miembros presentes.
+**Artículo 45**.- Sólo ella ejerce el derecho de acusar ante el Senado al presidente, vicepresidente, sus ministros y a los miembros de la Corte Suprema en las causas de responsabilidad que se intenten contra ellos, por mal desempeño o por delito en el ejercicio de sus funciones; o por crímenes comunes, después de haber conocido de ellos y declarado haber lugar a la formación de causa por mayoría de dos terceras partes de sus miembros presentes.
 
 #### Capítulo II: Del Senado
 
-**Artículo 46**.- El Senado se compondrá de dos senadores de cada provincia, elegidos por sus legislaturas a pluralidad de sufragios; y dos de la Capital elegidos en la forma prescripta para la elección, del Presidente de la Nación. Cada senador tendrá un voto.
+**Artículo 46**.- El Senado se compondrá de tres senadores de cada provincia y tres de la Capital Federal, elegidos en forma directa por el pueblo de cada una de ellas, en la oportunidad prevista en el Artículo 81. Dos le corresponderán a la mayoría y uno a la primera minoría. Cada senador tendrá un voto.
 
 **Artículo 47**.- Son requisitos para ser el elegido senador: tener la edad de treinta años, haber sido seis años ciudadano de la Nación, y disfrutar de una renta anual de dos mil pesos fuertes, o de una entrada equivalente y ser natural de la Provincia que lo elija, o con dos años de residencia inmediata en ella.
 
-**Artículo 48**.- Los senadores duran nueve años en el ejercicio de su mandato, y son reelegibles indefinidamente; pero el Senado se renovará por terceras partes cada tres años, decidiéndose por la suerte, luego que todos se reúnan, quiénes deben salir en el primero y segundo trienio.
+**Artículo 48**.- Los senadores duran cuatro años en el ejercicio de su mandato y son reelegibles indefinidamente.
 
 **Artículo 49**.- El Vicepresidente de la Nación será Presidente del Senado; pero no tendrá voto sino en el caso que haya empate en la votación.
 
@@ -140,9 +139,9 @@ El Estado otorgará los beneficios de la seguridad social, que tendrá carácter
 
 #### Capítulo III: Disposiciones comunes a ambas Cámaras
 
-**Artículo 55**.- Ambas cámaras se reunirán en sesiones ordinarias todos los años desde el l.º de mayo hasta el 30 de septiembre. Pueden también ser convocadas extraordinariamente Por el Presidente de la Nación, o prorrogadas sus sesiones.
+**Artículo 55**.- Ambas Cámaras se reunirán por propia convocatoria en sesiones ordinarias todos los años desde el 19 de abril hasta el 30 de noviembre. Pueden disponer su prórroga por un plazo no mayor de treinta días corridos. También pueden ser convocadas extraordinariamente por el presidente de la Nación o a solicitud de la cuarta parte de los miembros de cada Cámara. En esta última alternativa el presidente de cualesquiera de ellas deberá citarlos, correspondiendo a los cuerpos decidir si su realización está justificada.
 
-**Artículo 56**.- Cada.- Cámara es juez de las elecciones, derechos y títulos de sus miembros en cuanto a su validez. Ninguna de ellas entrará en sesión sin la mayoría absoluta de sus miembros; pero un número menor podrá compeler a los miembros ausentes a que concurran a las sesiones, en los términos y bajo las penas que cada Cámara establecerá.
+**Artículo 56**.- Cada Cámara es juez de las elecciones, derechos y títulos de sus miembros en cuanto a su validez. El quórum para sesionar se formará con la cuarta parte de sus miembros, pero para la sanción de las leyes y el ejercicio de las atribuciones a que se refiere esta Constitución el quórum será de la mayoría absoluta, salvo en los casos en que se exige una mayoría especial. Un número menor de la cuarta parte podrá compeler a los ausentes a que concurran a las sesiones en los términos y bajo las penas que cada Cámara establecerá.
 
 **Artículo 57**.- Ambas Cámaras empiezan y concluyen sus sesiones simultáneamente. Ninguna de ellas mientras se hallen reunidas, podrá suspender sus sesiones más de tres días, sin el consentimiento de la otra.
 
@@ -180,7 +179,7 @@ El Estado otorgará los beneficios de la seguridad social, que tendrá carácter
 
 6. Arreglar él pago de la deuda interior y exterior de la Confederación;
 
-7. Fijar anualmente el presupuesto de gastos de administración de la Nación, y aprobar o desechar la cuenta de inversión;
+7. Fijar anualmente el presupuesto de gastos de administración de la Nación y aprobar o desechar la cuenta de inversión. A iniciativa del Poder Ejecutivo el presupuesto podrá comprender ejercicios de más de un año de duración, pero en ningún caso excederá el período del mandato del presidente de la Nación en ejercicio;
 
 8. Acordar subsidios del Tesoro nacional a las provincias cuyas rentas no alcancen, según sus presupuestos, a cubrir sus gastos ordinarios;
 
@@ -202,7 +201,7 @@ El Estado otorgará los beneficios de la seguridad social, que tendrá carácter
 
 17. Establecer tribunales inferiores a la Suprema corte de justicia, crear y suprimir empleos, fijar sus atribuciones, dar pensiones, decretar honores y conceder amnistías generales;
 
-18. Admitir o desechar los motivos de dimisión del Presidente o Vicepresidente de la República, y declarar el caso de proceder a nueva elección: hacer el escrutinio y rectificación de ella;
+18. Admitir o desechar los motivos de dimisión del Presidente o Vicepresidente de la República, y declarar el caso de proceder a nueva elección;
 
 19. Aprobar o desechar los tratados concluidos con las demás Naciones, y los concordatos con la Silla Apostólica; y arreglar el ejercicio del patronato en toda la Confederación;
 
@@ -228,11 +227,21 @@ El Estado otorgará los beneficios de la seguridad social, que tendrá carácter
 
 **Artículo 68**.- Las leyes pueden tener principio en cualquiera de las Cámaras del Congreso, por proyectos presentados por sus miembros o por el Poder Ejecutivo; excepto las relativas a los objetos de que tratan los Artículos 40 y 51.
 
+La iniciativa de las leyes de presupuesto y ministerios corresponde exclusivamente al Poder Ejecutivo
+
+El Congreso podrá disminuir pero no aumentar las autorizaciones de gastos incluidos en el proyecto de presupuesto, y no podrá sancionar proyectos de leyes que ordenen gastos sin crear los recursos necesarios para su atención.
+
 **Artículo 69**.- Aprobado un proyecto de ley por la Cámara de su origen, pasa para su discusión a la otra Cámara. Aprobado por ambas, pasa al Poder Ejecutivo de la Nación para su examen; y si también obtiene su aprobación lo promulga como ley.
+
+En cualquier período de sesiones el Poder Ejecutivo puede enviar al Congreso proyectos con pedido de urgente tratamiento, que deberán ser considerados dentro de los treinta días corridos de la recepción por la Cámara de origen y en igual plazo por la revisora. Estos plazos serán de sesenta días para el proyecto de ley de presupuesto. Cuando éste fuere desechado, para considerar el nuevo proyecto cada Cámara tendrá treinta días. La solicitud de tratamiento de urgencia de un proyecto puede ser hecho aun después de la remisión y en cualquier etapa de su trámite. Se tendrá por aprobado aquel que dentro de los plazos establecidos no sea expresamente desechado. Cada Cámara, con excepción del proyecto de ley de presupuesto, puede dejar sin efecto el procedimiento de urgencia si así lo resuelve una mayoría de dos tercios de sus miembros presentes, en cuyo caso se aplica, a partir de ese momento, el ordinario.
+
+Las Cámaras pueden delegar en sus comisiones internas la discusión y aprobación de determinados proyectos, conforme se establezca por ley. Esos proyectos, si obtienen el voto favorable de la mayoría absoluta de los miembros de la comisión, pasan a la otra Cámara donde se observará el mismo procedimiento para la sanción y, en su caso, al Poder Ejecutivo para la promulgación, salvo que un cuarto de los miembros de alguna de las Cámara requiera la votación del proyecto por el cuerpo.
 
 **Artículo 70**.- Se reputa aprobado por el Poder Ejecutivo, todo proyecto no devuelto en el término de diez días útiles.
 
 **Artículo 71**.- Ningún proyecto de ley desechado totalmente por una de las Cámaras, podrá repetirse en las sesiones de aquel año. Pero si sólo fuere adicionado o corregido por la Cámara revisora, volverá a la de su origen; y si en éstas se aprobasen las adiciones o correcciones por mayoría absoluta, pasará al Poder Ejecutivo de la Nación. Si las adiciones o correcciones fuesen desechadas, volverá segunda vez el proyecto a la Cámara revisora, y si aquí fueren nuevamente sancionadas por una mayoría de las dos terceras partes de sus miembros, pasará el proyecto a la otra Cámara, y no se entenderá que ésta reprueba dichas adiciones o correcciones, si no concurre para ello el voto de las dos terceras partes de sus miembros presentes.
+
+Cada Cámara tiene un plazo de quince días corridos para considerar las modificaciones propuestas por la otra, transcurrido el cual se tendrán por aprobados si no se pronunciare expresamente.
 
 **Artículo 72**.- Desechado en el todo o en parte un proyecto por el Poder Ejecutivo, vuelve con sus objeciones a la Cámara de su origen: ésta lo discute de nuevo, y si lo confirma por mayoría dedos tercios de votos, pasa otra vez a la Cámara de revisión. Si ambas Cámaras lo sancionan por igual mayoría, el proyecto es ley y pasa al Poder Ejecutivo para su promulgación. Las votaciones de ambas Cámaras serán en este caso nominales, por sí, o por no; y tanto los nombres y fundamentos de los sufragantes, como las objeciones del Poder Ejecutivo, se publicarán inmediatamente por la prensa. Si las Cámaras difieren sobre las objeciones, el proyecto no podrá repetirse en las sesiones de aquel año.
 
@@ -248,7 +257,7 @@ El Estado otorgará los beneficios de la seguridad social, que tendrá carácter
 
 **Artículo 76**.- Para ser elegido Presidente o Vicepresidente de la Nación se requiere haber nacido en el territorio argentino, o ser hijo de ciudadano nativo, habiendo nacido en país extranjero; pertenecer a la comunión católica apostólica romana, y las demás calidades exigidas para ser electo senador.
 
-**Artículo 77**.- El Presidente y Vicepresidente duran en sus empleos el término de seis años; y no pueden ser reelegidos sino con intervalo de un período.
+**Artículo 77**.- El presidente y vicepresidente duran en sus cargos cuatro años y pueden ser reelegidos una sola vez.
 
 **Artículo 78**.- El Presidente de la Nación cesa en el poder el día mismo en que expira su período de seis años; sin que evento alguno que lo haya interrumpido, pueda ser motivo de que se le complete más tarde.
 
@@ -265,14 +274,6 @@ No pueden ser electores los diputados, los senadores ni los empleados a sueldo d
 Reunidos los electores en la Capital de la Nación y en la de sus provincias respectivas cuatro meses antes que concluya el término del Presidente cesante, procederán a elegir Presidente y Vicepresidente de la Nación por cédulas firmadas, expresando en una la persona, por quien votan para Presidente, y en otra distinta, la que eligen para Vicepresidente.
 
 Se harán dos listas de todos los individuos electos para Presidente y otras dos de los nombrados para Vicepresidente con el número de votos que cada uno de ellos hubiere obtenido. Estas listas serán firmadas por los electores, y se remitirán cerradas y selladas dos de ellas (una de cada clase), al presidente de la Legislatura provincial, y en la Capital al presidente de la Municipalidad, en cuyos registros permanecerán depositadas y cerradas, y las otras dos al presidente del Senado (la primera vez al presidente del Congreso Constituyente).
-
-**Artículo 82**.- El presidente del Senado (la primera vez el del Congreso Constituyente), reunidas todas las listas, las abrirá a presencia de ambas Cámaras. Asociados a los secretarios cuatro miembros del Congreso sacados a la suerte, procederán inmediatamente a hacer el escrutinio y a anunciar el número de sufragios que resulte en favor de cada candidato para la Presidencia y Vicepresidencia de la Nación. Los que reúnan en ambos casos la mayoría absoluta de todos los votos, serán proclamados inmediatamente Presidente y Vicepresidente.
-
-**Artículo 83**.- En el caso de que, por dividirse la votación no hubiese mayoría absoluta, elegirá el Congreso entre las dos personas que hubieren obtenido mayor número de sufragios. Si la primera mayoría que resultare hubiese cabido a más de dos personas, elegirá el Congreso entre todas éstas. Si la primera mayoría hubiere cabido a una sola persona, y la segunda a dos o más, elegirá el Congreso entre todas las personas que hayan obtenido la primera y segunda mayoría.
-
-**Artículo 84**.- Esta elección se hará a pluralidad absoluta de sufragios y por votación nominal. Si verificada la primera votación, no resultare mayoría absoluta, se hará segunda vez, contrayéndose la votación a las dos personas que en la primera hubiesen obtenido mayor número de sufragios. En caso de empate, se repetirá la votación, y si resultase nuevo empate, decidirá el presidente del Senado (la primera vez el del Congreso Constituyente). No podrá hacerse el escrutinio, ni la rectificación de estas elecciones, sin que estén presentes las tres cuartas partes del total de los miembros del Congreso.
-
-**Artículo 85**.- La elección del Presidente y Vicepresidente de la Nación debe quedar concluida en una sola sesión del Congreso, publicándose enseguida' el resultado de ésta y las actas electorales por la prensa.
 
 #### Capítulo III: Atribuciones del Poder Ejecutivo
 
@@ -298,9 +299,9 @@ Se harán dos listas de todos los individuos electos para Presidente y otras dos
 
 10. Nombra y remueve a los ministros plenipotenciarios y encargados de negocios, con acuerdo del Senado; y por sí sólo nombra y remueve los ministros del despacho, los oficiales de sus secretarías, los agentes consulares, y los demás empleados de la administración cuyo nombramiento no está reglado de otra manera por esta Constitución;
 
-11. Hace anualmente la apertura de las sesiones del Congreso, reunidas al efecto ambas Cámaras en la sala del Senado, dando cuenta en esta ocasión al Congreso del estado de la Nación, de las reformas prometidas por la Constitución, y recomendando a su consideración las medidas que juzgue necesarias y convenientes;
+11. Concurre anualmente a la apertura de las sesiones del Congreso, reunidas al efecto ambas Cámaras conjuntamente, dando cuenta en esa ocasión al Congreso del estado de la Nación, de las reformas prometidas por la Constitución, y recomendando a su consideración las medidas que juzgue necesarias y convenientes;
 
-12. Prorroga las sesiones ordinarias del Congreso, o lo convoca a sesiones extraordinarias, cuando un grave interés de orden o de progreso lo requiera;
+12. Convoca al Congreso a sesiones extraordinarias cuando un grave interés de orden o de progreso lo requiera;
 
 13. Hace recaudar las rentas de la Nación, y decreta su inversión con arreglo a la ley o presupuestos de gastos nacionales;
 
@@ -324,7 +325,7 @@ Se harán dos listas de todos los individuos electos para Presidente y otras dos
 
 #### Capítulo IV: De los Ministros del Poder Ejecutivo
 
-**Artículo 87**.- Ocho ministros secretarios tendrán a su cargo el despacho de los negocios de la Nación y refrendarán y legalizarán los actos del Presidente por medio de su firma, sin cuyo requisito carecen de eficacia. Una ley especial deslindará los ramos del respectivo despacho de los ministros.
+**Artículo 87**.- El despacho de los negocios de la Nación estará a cargo de ministros secretarios que refrendarán y legalizarán los actos del presidente por medio de su firma, sin cuyo requisito carecen de eficacia. La ley fijará el número de ministros y deslindará los ramos del respectivo despacho.
 
 **Artículo 88**.- Cada ministro es responsable de los actos que legaliza; y solidariamente de los que acuerda con sus colegas.
 
@@ -332,7 +333,7 @@ Se harán dos listas de todos los individuos electos para Presidente y otras dos
 
 **Artículo 90**.- Luego que el Congreso abra sus sesiones, deberán los ministros del despacho presentarle una memoria detallada del estado de la Nación en lo relativo a los negocios de sus respectivos departamentos.
 
-**Artículo 91**.- No pueden ser senadores ni diputados sin hacer dimisión de sus empleos de ministros.
+**Artículo 91**.- El presidente y vicepresidente serán elegidos simultánea y directamente por el pueblo de la Nación, cuyo territorio, a ese efecto formará un distrito único. La elección deberá efectuarse entre seis y dos meses antes que concluya el período del presidente en ejercicio. Se proclamarán electos los candidatos que obtuvieren la mayoría absoluta de los votos válidos emitidos. La ley determinará el procedimiento a seguir si ninguno alcanzare esa mayoría, observándose el principio de elección directa.
 
 **Artículo 92**.- Pueden los ministros concurrir a las sesiones del Congreso y tomar parte en sus debates, pero no votar.
 
@@ -347,6 +348,8 @@ Se harán dos listas de todos los individuos electos para Presidente y otras dos
 **Artículo 95**.- En ningún caso el Presidente de la Nación puede ejercer funciones judiciales, arrogarse el conocimiento de causas pendientes, o restablecer las fenecidas.
 
 **Artículo 96**.- Los jueces de la Corte suprema y de los tribunales inferiores de la Nación conservarán sus empleos mientras dure su buena conducta, y recibirán por sus servicios una compensación que determinará la ley, y que no podrá ser disminuida en manera alguna, mientras permaneciesen en sus funciones.
+
+Los jueces de los tribunales inferiores de la Nación, por las causas de responsabilidad previstas en el Artículo 45 y con los efectos del Artículo 52, serán juzgados en juicio público por acusación ante un jurado, que será integrado por igual número de miembros del Poder Judicial, del Poder Legislativo y abogados; todos ellos elegidos antes del 19 de enero de cada año. La ley determinará su organización y el procedimiento aplicable
 
 **Artículo 97**.- Ninguno podrá ser miembro de la Corte suprema de justicia, sin ser abogado de la Nación con ocho años de ejercicio, y tener las calidades requeridas para ser senador.
 
@@ -369,6 +372,8 @@ Se harán dos listas de todos los individuos electos para Presidente y otras dos
 **Artículo 104.-** Las provincias conservan todo el poder no delegado por esta Constitución al Gobierno federal y el que expresamente se hayan reservado por pactos especiales al tiempo de su incorporación.
 
 **Artículo 105**.- Se dan sus propias instituciones locales y se rigen por ellas. Eligen sus gobernadores, sus legisladores y demás funcionarios de provincia, sin intervención del Gobierno federal.
+
+La duración de los mandatos de los miembros de los poderes Legislativo y Ejecutivo será igual a la de los cargos nacionales correlativos y su elección simultánea con la de éstos.
 
 **Artículo 106**.- Cada provincia dicta su propia Constitución, conforme a lo dispuesto en el Artículo 5.
 
